@@ -188,9 +188,16 @@ EXEC 00;38;5;64
 .ico    00;38;5;136
 
 # Design source image files
-.psd    00;38;5;130
-.ai     00;38;5;130
-.sketch 00;38;5;130
+.psd    00;38;5;172
+.ai     00;38;5;172
+.sketch 00;38;5;172
+
+# Dev files
+.html   00;38;5;111
+.js     00;38;5;111
+.css    00;38;5;111
+.rb     00;38;5;124
+.erb    00;38;5;124
 
 # Files of special interest (base1)
 .tex             00;38;5;245
